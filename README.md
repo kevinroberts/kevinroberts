@@ -19,7 +19,7 @@ Software engineer at **Bounteous** by day, side-project gremlin by night. I like
 
 - 🏢 Building things at Bounteous
 - 🛠️ Tinkering on [KevTools](https://kevinroberts.dev) — a personal dashboard of dashboards
-- 🎮 Recently shipped a libGDX rocket-flatulence climber. Yes, really.
+- 🎮 Recently shipped a libGDX rocket-flatulence climber. [Yes, really](https://shrinkly.net/fart-blaster).
 - 📫 Reach me at **kevin@kevinroberts.us**
 
 ---
