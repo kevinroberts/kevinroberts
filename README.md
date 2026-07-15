@@ -48,7 +48,7 @@ Software engineer at **Bounteous** by day, side-project gremlin by night. I like
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**city-timezones**](https://github.com/kevinroberts/city-timezones) ⭐161 | A light & fast city → timezone lookup library | JavaScript |
+| [**city-timezones**](https://github.com/kevinroberts/city-timezones) ⭐162 | A light & fast city → timezone lookup library | JavaScript |
 | [**shrinkly-url-shortener**](https://github.com/kevinroberts/shrinkly-url-shortener) | Y.A.S.S. — Yet Another Shortening Service. Spring Boot + Postgres + Redis | Java |
 | [**gifvault**](https://github.com/kevinroberts/gifvault) | Desktop GIF archiving app for hoarders of reaction images | Java |
 | [**shelfie**](https://github.com/kevinroberts/shelfie) | Library manager for `.wav` / `.mp3` sound files | JavaScript |
